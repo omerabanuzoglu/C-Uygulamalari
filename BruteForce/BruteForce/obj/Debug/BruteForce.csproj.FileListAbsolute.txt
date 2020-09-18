@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\BruteForce\BruteForce\bin\Debug\BruteForce.exe.config
+C:\Users\User\source\repos\BruteForce\BruteForce\bin\Debug\BruteForce.exe
+C:\Users\User\source\repos\BruteForce\BruteForce\bin\Debug\BruteForce.pdb
+C:\Users\User\source\repos\BruteForce\BruteForce\obj\Debug\BruteForce.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BruteForce\BruteForce\obj\Debug\BruteForce.exe
+C:\Users\User\source\repos\BruteForce\BruteForce\obj\Debug\BruteForce.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\yılan\yılan\bin\Debug\yılan.exe.config
+C:\Users\User\source\repos\yılan\yılan\bin\Debug\yılan.exe
+C:\Users\User\source\repos\yılan\yılan\bin\Debug\yılan.pdb
+C:\Users\User\source\repos\yılan\yılan\obj\Debug\yılan.csprojAssemblyReference.cache
+C:\Users\User\source\repos\yılan\yılan\obj\Debug\yılan.exe
+C:\Users\User\source\repos\yılan\yılan\obj\Debug\yılan.pdb

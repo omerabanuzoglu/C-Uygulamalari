@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SeseCevirme\SeseCevirme\bin\Debug\SeseCevirme.exe.config
+C:\Users\User\source\repos\SeseCevirme\SeseCevirme\bin\Debug\SeseCevirme.exe
+C:\Users\User\source\repos\SeseCevirme\SeseCevirme\bin\Debug\SeseCevirme.pdb
+C:\Users\User\source\repos\SeseCevirme\SeseCevirme\obj\Debug\SeseCevirme.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SeseCevirme\SeseCevirme\obj\Debug\Interop.SpeechLib.dll
+C:\Users\User\source\repos\SeseCevirme\SeseCevirme\obj\Debug\SeseCevirme.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\SeseCevirme\SeseCevirme\obj\Debug\SeseCevirme.Form1.resources
+C:\Users\User\source\repos\SeseCevirme\SeseCevirme\obj\Debug\SeseCevirme.Properties.Resources.resources
+C:\Users\User\source\repos\SeseCevirme\SeseCevirme\obj\Debug\SeseCevirme.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SeseCevirme\SeseCevirme\obj\Debug\SeseCevirme.exe
+C:\Users\User\source\repos\SeseCevirme\SeseCevirme\obj\Debug\SeseCevirme.pdb
